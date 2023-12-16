@@ -1,0 +1,85 @@
+Dealer code,Dealer state,Dealership,Location Code,Dealership Location,Store Location Code,Store Location Name
+DLR-DEL-00002,Delhi,Delhi,DLR-DEL-00004,Dwarka,WKS-DEL-00004,Dwarka
+DLR-DEL-00002,Delhi,Delhi,DLR-DEL-00002,Gujranwala Town,WKS-DEL-00002,Gujranwala Town
+DLR-DEL-00002,Delhi,Delhi,DLR-DEL-00003,KANTI NAGAR,WKS-DEL-00003,KANTI NAGAR
+DLR-AHM-00012,Gujarat,Ahmedabad,DLR-AHM-00013,Ashram Road,WKS-AHM-00013,Ashram Road
+DLR-AHM-00012,Gujarat,Ahmedabad,DLR-RAJ-0027,Rajkot,WKS-RAJ-0027,Rajkot
+DLR-BLR-0078,Karnataka,Bangalore,DLR-BLR-0078,Kormangala,WKS-BLR-0078,Bangalore
+DLR-CHN-00001,Tamil Nadu,Chennai,DLR-CHN-00011,Anna Nagar,CHN-WS-00002,Anna Nagar
+DLR-CHN-00001,Tamil Nadu,Coimbatore,DLR-COI-0062,Coimbatore,WKS-COI-0062,Coimbatore
+DLR-CHN-00001,Tamil Nadu,Madurai,DLR-MAD-0063,Madurai,WKS-MAD-0063,Madurai
+DLR-CHN-00001,Tamil Nadu,Chennai,DLR-CHN-00010,Velachery,CHN-WS-00001,Velachery
+DLR-CHN-00001,Tamil Nadu,Tiruchirappalli,DLR-TIR-0064,Tiruchirappalli,WKS-TIR-0064,Tiruchirappalli
+DLR-HYD-00009,Telangana,Hyderabad,DLR-HYD-00008,Jubilee Hills,WS-HYD-001,Jubilee Hills
+DLR-JAI-0058,Rajasthan,Jaipur,DLR-JAI-0058,Jaipur,WKS-JAI-0058,Jaipur
+DLR-KAN-0073,Uttar Pradesh,Lucknow,DLR-LUC-0070,Lucknow,WKS-LUC-0070,Lucknow
+DLR-KOL-0076,West Bengal,Kolkata,DLR-KOL-0076,Kolkata,WKS-KOL-0076,Kolkata
+DLR-SUR-0025,Gujarat,Surat,DLR-SUR-0080,Surat,WKS-SUR-0025,Surat
+DLR-THR-0042,Kerala,Thrissur,DLR-THR-0042,Thrissur,WKS-THR-0042,Thrissur
+DLR-THR-0042,Kerala,Kochin,DLR-KOC-0041,Kochin(Ernakulam),WKS-KOC-0041,Kochin
+DLR-VIJ-0016,Andhra Pradesh,VIJAYAWADA,DLR-VIJ-0001,VIJAYAWADA,WKS-VIJ-0001,VIJAYAWADA
+DLR-VIS-0015,Andhra Pradesh,VISAKHAPATNAM,DLR-VIS-0015,VISAKHAPATNAM,WKS-VIS-0015,VISAKHAPATNAM
+DLR-NEL-0018,Andhra Pradesh,Nellore            ,DLR-NEL-0018,Nellore,WKS-NEL-0018,Nellore
+DLR-PAT-0021,Bihar,Patna,DLR-PAT-0021,Patna,WKS-PAT-0021,Patna
+DLR-BHO-0045,Madhya Pradesh,Bhopal,DLR-BHO-0045,Bhopal,WKS-BHO-0045,Bhopal
+DLR-IND-0044,Madhya Pradesh,Indore,DLR-IND-0044,Indore,WKS-IND-0044,Indore
+DLR-MAN-0038,Karnataka,Mangaluru,DLR-MAN-0038,Mangaluru,WKS-MAN-0038,Mangaluru
+DLR-GUW-0020,Assam,Guwahati,DLR-GUW-0020,Guwahati,WKS-GUW-0020,Guwahati
+DLR-BHU-0054,Odisha,Bhubaneswar        ,DLR-BHU-0054,Bhubaneswar        ,WKS-BHU-0054,Bhubaneswar        
+DLR-KAL-0125,Maharashtra,Thane,DLR-KAL-0125,Dombivli,WKS-KAL-0125,Dombivli
+DLR-MUM-00015,Maharashtra,Mumbai,DLR-MUM-00015,Mumbai Andheri,WKS-MUM-00015,Andheri West
+DLR-GGN-00127,Haryana,Gurgaon,DLR-GGN-00127,Gurgaon,not generate,Gurgaon
+DLR-GGN-00128,Haryana,Gurgaon ,DLR-GGN-00128,Gurgaon,not generate,Gurgaon
+DLR-CHI-00126,Maharashtra,Chikhli,DLR-CHI-00126,Chikhli,WKS-CHI-00126,Chikhli
+DLR-RAI-0023,Chhattisgarh,Raipur,DLR-RAI-0023,Raipur,WKS-RAI-0023,Raipur
+DLR-HAR-0110,Uttarakhand,Haridwar,DLR-HAR-0110,Haridwar,WKS-HAR-0110,Haridwar
+DLR-AGR-0069,Uttar Pradesh,Agra,DLR-AGR-0069,Agra,WKS-AGR-0069,Agra
+DLR-BEG-00010,Bihar,Begusarai,DLR-BEG-00010,Begusarai,WKS-BEG-00010,Begusarai
+DLR-AUR-0048,Maharashtra,Aurangabad,DLR-AUR-0048,Aurangabad,WKS-AUR-0048,Aurangabad
+DLR-SAN-0117,Maharashtra,Sangli,DLR-SAN-0117,Sangli,WKS-SAN-0117,Sangli
+DLR-JHU-00129,Rajasthan,Jhunjhunu,DLR-JHU-00129,Jhunjhunu,WKS-JHU-00129,Jhunjhunu
+DLR-DUR-00130,Chhattisgarh,Durg,DLR-DUR-00130,Durg,WKS-DUR-00130,Durg
+DLR-MEE-0074,Uttar Pradesh,Meerut,DLR-MEE-0074,Meerut,WKS-MEE-0074,Meerut
+DLR-NAN-00134,Maharashtra,Nanded,DLR-NAN-00134,Nanded,WKS-NAN-00134,Nanded
+DLR-PUR-00135,Bihar,Purnia,DLR-PUR-00135,Purnia,WKS-PUR-00135,Purnia
+DLR-JHA-0113,Uttar Pradesh,Jhansi,DLR-JHA-0113,Jhansi,WKS-JHA-0113,Jhansi
+DLR-GAY-0001,Bihar,Gaya,DLR-GAY-0001,Gaya,WKS-GAY-0001,Gaya
+DLR-DEL-00006,Delhi,Delhi,DLR-DEL-00006,Wazirabad,WKS-DEL-00006,Wazirabad
+DLR-BHA-00138,Odisha,Bhadrak,DLR-BHA-00138,Bhadrak,WKS-BHA-00138,Bhadrak
+DLR-GGN-00139,Haryana,Gurgaon,DLR-GGN-00139,Gurgaon,WKS-GGN-00139,Gurgaon
+DLR-SWN-00140,Bihar,SIWAN,DLR-SWN-00140,SIWAN,WKS-SWN-00140,SIWAN
+DLR-MUM-00015,Maharashtra,Pune,DLR-MUM-00015,Pune,WKS-PUN-00016,Pune
+DLR-MUM-00015,Maharashtra,PCMC,DLR-MUM-00015,PCMC,WKS-PCM-0128,PCMC
+DLR-NAG-0046,Maharashtra,Nagpur,DLR-NAG-0046,Nagpur,WKS-NAG-0046,Nagpur
+DLR-SAS-00142,Bihar,Sasaram,DLR-SAS-00142,Sasaram,WKS-SAS-00142,Sasaram
+DLR-BIL-0106,Chhattisgarh,Bilaspur,DLR-BIL-0106,Bilaspur,WKS-BIL-0106,Bilaspur
+DLR-TIR-0017,Andhra Pradesh,Tirupati,DLR-TIR-0017,Tirupati,WKS-TIR-0017,Tirupati
+DLR-HAJ-00141,Bihar,Hajipur,DLR-HAJ-00141,Hajipur,WKS-HAJ-00141,Hajipur
+DLR-NAR-00142,Gujarat,Naroda,DLR-NAR-00142,Naroda,WKS-NAR-00142,Naroda
+DLR-MAH-00143,Telangana,Mahabubnagar,DLR-MAH-00143,Mahabubnagar,WKS-MAH-00143,Mahabubnagar
+DLR-GOA-0024,Goa,Panaji,DLR-GOA-0024,Panaji,WKS-GOA-0024,Panaji
+DLR-DHU-00144,Maharashtra,Dhule,DLR-DHU-00144,Dhule,WKS-DHU-00144,Dhule
+DLR-GWA-00145,Madhya Pradesh,Gwalior,DLR-GWA-00145,Gwalior,WKS-GWA-00145,Gwalior
+DLR-AGR-0069,Uttar Pradesh,Mathura,DLR-MAT-00146,Mathura,WKS-MAT-00146,Mathura
+DLR-FAR-00147,Haryana,Faridabad,DLR-FAR-00147,Faridabad,WKS-FAR-00147,Faridabad
+DLR-PAL-00148,Haryana,Palwal,DLR-PAL-00148,Palwal,WKS-PAL-00148,Palwal
+DLR-BAS-00149,Uttar Pradesh,Basti,DLR-BAS-00149,Basti,WKS-BAS-00149,Basti
+DLR-SUR-0119,Gujarat,Surat,DLR-SUR-0119,Surat,WKS-SUR-0119,Surat
+DLR-CHH-00150,Madhya Pradesh,CHHINDWARA,DLR-CHH-00150,CHHINDWARA,WKS-CHH-00150,CHHINDWARA
+DLR-MUM-00015,Maharashtra,Kolhapur,DLR-KOL-0127,Kolhapur,WKS-KOL-0127,Kolhapur
+DLR-MUM-00015,Maharashtra,Nashik,DLR-NAS-0050,Nashik,WKS-NAS-0050,Nashik
+DLR-NAR-00151,Gujarat,Ahmedabad,DLR-NAR-00151,Narol,WKS-NAR-00151,Narol
+DLR-BHAV-00152,Gujarat,Bhavnagar,DLR-BHAV-00152,Bhavnagar,WKS-BHAV-00152,Bhavnagar
+DLR-NAV-00153,Gujarat,Navsari,DLR-NAV-00153,Navsari,WKS-NAV-00153,Navsari
+DLR-BAL-00154,Uttar Pradesh,Ballia,DLR-BAL-00154,Ballia,WKS-BAL-00154,Ballia
+DLR-ALI-00154,Uttar Pradesh,Aligarh,DLR-ALI-00154,Aligarh,WKS-ALI-00154,Aligarh
+DLR-AMR-00155,Uttar Pradesh,Amroha,DLR-AMR-00155,Amroha,WKS-AMR-00155,Amroha
+DLR-PIT-00156,Delhi,Delhi,DLR-PIT-00156,Pitampura,WKS-PIT-00156,Pitampura
+DLR-ERO-00157,Tamil Nadu,Erode,DLR-ERO-00157,Erode,WKS-ERO-00157,Erode
+DLR-DHA-00158,Jharkhand,Dhanbad,DLR-DHA-00158,Dhanbad,WKS-DHA-00158,Dhanbad
+DLR-SHA-00159,Uttar Pradesh,Shahjahanpur,DLR-SHA-00159,Shahjahanpur,WKS-SHA-00159,Shahjahanpur
+DLR-SOL-0118,Maharashtra,Solapur,DLR-SOL-0118,Solapur,WKS-SOL-0118,Solapur
+DLR-KOT-0061,Rajasthan,Kota,DLR-KOT-0061,kota,WKS-KOT-0061,Kota
+DLR-MAN-00160,Karnataka,Mangalore,DLR-MAN-00160,Manglore,WKS-MAN-00160,Manglore
+DLR-KAN-00161,Tamil Nadu,Kanyakumari,DLR-KAN-00161,Kanyakumari,WKS-KAN-00161,Kanyakumari
+DLR-GHA-0075,Uttar Pradesh,Ghaziabad,DLR-GHA-0075,Ghaziabad,WKS-GHA-0075,Ghaziabad

@@ -1,0 +1,1 @@
+<x-navigation-menu />
